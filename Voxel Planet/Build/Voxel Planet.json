@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Voxel Planet.data.unityweb",
+"asmCodeUrl": "Voxel Planet.asm.code.unityweb",
+"asmMemoryUrl": "Voxel Planet.asm.memory.unityweb",
+"asmFrameworkUrl": "Voxel Planet.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#3F8001"
+}
